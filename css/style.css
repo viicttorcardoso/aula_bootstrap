@@ -2,7 +2,7 @@ body {
     font: 20px Arial, sans-serif;
 }
 .navbar {
-    background-color: #5fb404;
+    background-color: #bef0ff;
 }
 .quem-somos {
     background-color: #3498DB;
@@ -24,3 +24,27 @@ body {
     background: black;
     color: white;
 }
+
+.contatoEmailPhone {
+    padding: 0 35%;
+    display: flex;
+
+}
+.contatoEmailPhone div  { 
+    display: flex;
+    align-items: center;
+    margin: 15px;
+    
+}
+.contatoEmailPhone p{
+    padding-left: 12px;
+}
+.redesImg {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 200px;
+    margin: 0 auto;
+
+}
+
