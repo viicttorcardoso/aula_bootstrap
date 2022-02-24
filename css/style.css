@@ -2,21 +2,22 @@ body {
     font: 20px Arial, sans-serif;
 }
 .navbar {
-    background-color: #bef0ff;
+    background-color: #c6f2f3;
 }
 .quem-somos {
-    background-color: #3498DB;
-    color: white;
+    background-color: #00AbB7;
+    color: black;
 }
 .margin {
     padding-bottom: 50px;
     padding-top: 10px;
 }
 .serviços {
-    background-color: #0767a7;
-    color: white;
+    background-color: #c6f2f3;
+    color: black;
 }
 .contato {
+    background-color: #00AbB7;
     color: black;
 }
 
@@ -26,7 +27,7 @@ body {
 }
 
 .contatoEmailPhone {
-    padding: 0 35%;
+    padding: 0 25%;
     display: flex;
 
 }
@@ -34,6 +35,7 @@ body {
     display: flex;
     align-items: center;
     margin: 15px;
+    
     
 }
 .contatoEmailPhone p{
@@ -47,4 +49,3 @@ body {
     margin: 0 auto;
 
 }
-
