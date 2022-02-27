@@ -3,6 +3,9 @@ body {
 }
 .navbar {
     background-color: #c6f2f3;
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
 }
 .quem-somos {
     background-color: #00AbB7;
@@ -27,20 +30,18 @@ body {
 }
 
 .contatoEmailPhone {
-    padding: 0 25%;
     display: flex;
-
+    justify-content: center
 }
 .contatoEmailPhone div  { 
     display: flex;
     align-items: center;
     margin: 15px;
-    
-    
 }
 .contatoEmailPhone p{
     padding-left: 12px;
 }
+
 .redesImg {
     display: flex;
     align-items: center;
