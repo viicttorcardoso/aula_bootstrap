@@ -37,11 +37,18 @@ body {
     display: flex;
     align-items: center;
     margin: 15px;
+    position: relative;
+    left: 50px;
 }
 .contatoEmailPhone p{
-    padding-left: 12px;
+    position: relative;
+    left: 10px;
+    
+    
 }
-
+.contatoEmailPhone li {
+    list-style-type: none;
+}
 .redesImg {
     display: flex;
     align-items: center;
@@ -49,4 +56,10 @@ body {
     width: 200px;
     margin: 0 auto;
 
+}
+
+
+.qrcode {
+    position: relative;
+    left: 41%;
 }
