@@ -1,5 +1,5 @@
 body {
-    font: 20px Arial, sans-serif;
+    font: 18px Arial, sans-serif;
 }
 .navbar {
     background-color: #c6f2f3;
@@ -62,4 +62,7 @@ body {
 .qrcode {
     position: relative;
     left: 41%;
+}
+.especializacao {
+    align-items: center;
 }
